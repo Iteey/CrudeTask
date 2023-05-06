@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AuthorDb>
+  <AuthorList>
+    <Author id="1">
+      <Name>Denis</Name>
+      <Age>19</Age>
+      <Birthday>2004-11-03T00:00:00.0000000</Birthday>
+      <Country>Estonia</Country>
+      <Language>Russian</Language>
+    </Author>
+    <Author id="2">
+      <Name>Doctor James</Name>
+      <Age>54</Age>
+      <Birthday>1900-06-06T00:00:00.0000000</Birthday>
+      <Country>Russia</Country>
+      <Language>Russian</Language>
+    </Author>
+  </AuthorList>
+</AuthorDb>
